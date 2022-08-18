@@ -12,5 +12,5 @@ npm install
 ## Run Test
 In the **javascript-challenge** folder execute
 ````
-npm test
+npm run test
 ````
