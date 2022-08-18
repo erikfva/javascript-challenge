@@ -9,7 +9,7 @@ git clone https://github.com/erikfva/javascript-challenge.git
 ````
 npm install
 ````
-## Run Test
+## Run test
 In the **javascript-challenge** folder execute
 ````
 npm run test
