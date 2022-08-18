@@ -1,6 +1,6 @@
 # javascript-challenge
 Good Sequence
-## Instalation
+## Installation
 ### 1. Clone or copy the repository
 ```Git
 git clone https://github.com/erikfva/javascript-challenge.git
